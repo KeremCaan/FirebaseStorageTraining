@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>66723819302-b9pru1jvo9i8ih0fnkn3eur7476itgfa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.66723819302-b9pru1jvo9i8ih0fnkn3eur7476itgfa</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBvKtkJ8VK--hqRuf4ki8jBTw15ggCZq_o</string>
+	<key>GCM_SENDER_ID</key>
+	<string>66723819302</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.info.NeonAcademyFirebaseStorage</string>
+	<key>PROJECT_ID</key>
+	<string>neonacademyfirebasestorage</string>
+	<key>STORAGE_BUCKET</key>
+	<string>neonacademyfirebasestorage.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:66723819302:ios:c4d21f06a453201fe39be7</string>
+</dict>
+</plist>
